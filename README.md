@@ -7,4 +7,4 @@
 -->
 
 
-[![Junyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TastySatang)](https://github.com/TastySatang/github-readme-stats)
+![Junyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TastySatang&show_icons=true&theme=dark)
