@@ -37,4 +37,3 @@ I build websites 📫
 ##
 
 ![Junyeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=TastySatang&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TastySatang&layout=compact)](https://github.com/TastySatang/github-readme-stats)
