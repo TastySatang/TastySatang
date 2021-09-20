@@ -1,6 +1,6 @@
-### Welcome to my Github profile
-
 <img width='500' align='right' src='https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif'>
+
+### Welcome to my Github profile
 
 I build websites 📫
 
