@@ -12,8 +12,7 @@ I build websites 📫
 
 - 💬 Let me know why you're here 💡
 
-<br/><br/>
-
+<br/>
 
 ##
 
