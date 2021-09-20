@@ -1,14 +1,21 @@
 ### Welcome to my Github profile
 
+<img width='500' align='right' src='https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif'>
+
 I build websites 📫
 
 **About me**
 
-- 🔭 I’m currently working on my online presence
+- 🔭 I’m currently working on me myself.
 
 - 🌱 Currently going deaper into data structures to build better applications.
 
+- 💬 Let me know why you're here 💡
 
+<br/><br/>
+
+
+##
 
 ### My Favourite things to build with 💻
 
