@@ -6,7 +6,7 @@ I build websites 📫
 
 **About me**
 
-- 🔭 I’m currently working on me myself.
+- 🔭 I’m currently github stalking my peers' repositories
 
 - 🌱 Currently going deaper into data structures to build better applications.
 
